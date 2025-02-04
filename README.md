@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Real-Time Fire Detection Project.<br>👯 I’m looking to collaborate on AI, machine learning, and real-time systems projects.<br>🤝 I’m looking for help with data analysis and advanced AI techniques.<br>🌱 I’m currently learning data analysis and enhancing my skills in Python and AI technologies.<br>💬 Ask me about computer engineering, AI, and data-driven projects.<br>⚡ Fun fact: I’m passionate about combining technology and creativity to solve real-world problems.<br><br>Currently pursuing a B.Tech in Computer Engineering with a specialization in Artificial Intelligence
+🔭 I’m currently working in Bhaskaracharya Institute for Space Applications and Geoinformatics.<br>👯 I’m looking to collaborate on AI, machine learning, and real-time systems projects.<br>🤝 I’m looking for help with Machine learning models, data analysis and advanced AI techniques.<br>🌱 I’m currently learning Machine learning and enhancing my skills in Python and AI technologies.<br>💬 Ask me about computer engineering, AI, and data-driven projects.<br>⚡ Fun fact: I’m passionate about combining technology and creativity to solve real-world problems.<br><br>Currently pursuing a B.Tech in Computer Engineering with a specialization in Artificial Intelligence
 
 
 ## 🌐 Socials:
