@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Devik Shah — a Computer Engineering student specializing in Artificial Intelligence and  Ex-AI/ML Engineer Intern at BISAG-N.<br><br>🛠 Skilled in Python, Machine Learning, and Deep Learning, I love working on real-world AI projects like fire detection, rooftop segmentation, and flood prediction.<br><br>🚀 Passionate about turning data into actionable insights and building AI-driven solutions that make an impact.<br><br>📚 Always learning, always experimenting. Outside of tech, you’ll probably find me playing Valorant or planning my next creative project.<br><br>🌟 Let’s collaborate on something amazing!
+👋 Hi, I’m Devik Shah — a a AI Engineering and Ex-AI/ML Engineer Intern at BISAG-N.<br><br>Bachlor of Computer Engineering with core of Artificial Intelligence</br><br>🛠 Skilled in Python, Machine Learning, and Deep Learning, I love working on real-world AI projects like fire detection, rooftop segmentation, and flood prediction.<br><br>🚀 Passionate about turning data into actionable insights and building AI-driven solutions that make an impact.<br><br>📚 Always learning, always experimenting.<br><br>🌟 Let’s collaborate on something amazing!
 
 
 ## 🌐 Socials:
